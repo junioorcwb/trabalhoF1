@@ -1,0 +1,38 @@
+.track {
+    position: relative;
+    width: 500px;
+    height: 150px;
+    background-color: #808080;
+    margin-bottom: 20px;
+  }
+  
+  .car {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+  }
+  
+  #car1vermelho {
+    background-color: #FF0000;
+    top: 0;
+  }
+  
+  #car2verde {
+    background-color: #00FF00;
+    top: 20px; /* Ajuste a posição inicial do segundo carro */
+  }
+  
+  #car3azul {
+    background-color: #0000FF;
+    top: 40px; /* Ajuste a posição inicial do terceiro carro */
+  }
+  
+  #car4amarelo {
+    background-color: #FFFF00;
+    top: 60px; /* Ajuste a posição inicial do quarto carro */
+  }
+  
+  #car5rosa {
+    background-color: #FF00FF;
+    top: 80px; /* Ajuste a posição inicial do quinto carro */
+  }
